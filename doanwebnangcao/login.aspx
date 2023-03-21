@@ -23,6 +23,7 @@
                                <a href="google.com">Privacy Policy</a> and 
                                <a href="google.com">Terms of Service </a> apply.
                           </div>
+                    ád
                     
                     <asp:Button ID="Button1" runat="server" class="form-submit" Text="Đăng nhập" OnClick="Button1_Click" />
                     <div class="form-this" style="padding-top: 20px;">Khách hàng mới?
